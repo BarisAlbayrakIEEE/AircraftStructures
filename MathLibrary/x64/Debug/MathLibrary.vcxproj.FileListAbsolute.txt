@@ -1,0 +1,1 @@
+D:\Work\Kod\Workspaces\cpp\AircraftStructures\MathLibrary\x64\Debug\MathLibrary.lib

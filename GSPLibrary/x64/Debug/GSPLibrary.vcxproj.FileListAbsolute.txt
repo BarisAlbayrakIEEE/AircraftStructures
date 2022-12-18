@@ -1,0 +1,1 @@
+D:\Work\Kod\Workspaces\cpp\AircraftStructures\GSPLibrary\x64\Debug\GSPLibrary.lib

@@ -1,0 +1,1 @@
+D:\Work\Kod\Workspaces\cpp\AircraftStructures\ExceptionLibrary\x64\Debug\ExceptionLibrary.lib
